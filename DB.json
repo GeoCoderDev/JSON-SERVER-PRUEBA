@@ -1,0 +1,144 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan",
+      "apellido": "García",
+      "correo": "juan.garcia@example.com",
+      "edad": 25,
+      "ciudad": "Ciudad de México"
+    },
+    {
+      "nombre": "María",
+      "apellido": "López",
+      "correo": "maria.lopez@example.com",
+      "edad": 30,
+      "ciudad": "Buenos Aires"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "correo": "carlos.martinez@example.com",
+      "edad": 28,
+      "ciudad": "Madrid"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "correo": "ana.rodriguez@example.com",
+      "edad": 22,
+      "ciudad": "Lima"
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "Hernández",
+      "correo": "miguel.hernandez@example.com",
+      "edad": 35,
+      "ciudad": "Bogotá"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Díaz",
+      "correo": "laura.diaz@example.com",
+      "edad": 27,
+      "ciudad": "Santiago"
+    },
+    {
+      "nombre": "José",
+      "apellido": "Gómez",
+      "correo": "jose.gomez@example.com",
+      "edad": 29,
+      "ciudad": "Lisboa"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Fernández",
+      "correo": "sofia.fernandez@example.com",
+      "edad": 31,
+      "ciudad": "Barcelona"
+    },
+    {
+      "nombre": "Pablo",
+      "apellido": "Pérez",
+      "correo": "pablo.perez@example.com",
+      "edad": 26,
+      "ciudad": "Montevideo"
+    },
+    {
+      "nombre": "Carmen",
+      "apellido": "Sánchez",
+      "correo": "carmen.sanchez@example.com",
+      "edad": 33,
+      "ciudad": "Caracas"
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Ruiz",
+      "correo": "diego.ruiz@example.com",
+      "edad": 24,
+      "ciudad": "Quito"
+    },
+    {
+      "nombre": "Valeria",
+      "apellido": "Mendoza",
+      "correo": "valeria.mendoza@example.com",
+      "edad": 28,
+      "ciudad": "Asunción"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Castro",
+      "correo": "javier.castro@example.com",
+      "edad": 32,
+      "ciudad": "San Juan"
+    },
+    {
+      "nombre": "Gabriela",
+      "apellido": "Ortega",
+      "correo": "gabriela.ortega@example.com",
+      "edad": 30,
+      "ciudad": "San José"
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Herrera",
+      "correo": "andres.herrera@example.com",
+      "edad": 29,
+      "ciudad": "Guatemala"
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Ramírez",
+      "correo": "isabel.ramirez@example.com",
+      "edad": 26,
+      "ciudad": "Tegucigalpa"
+    },
+    {
+      "nombre": "Ricardo",
+      "apellido": "Lara",
+      "correo": "ricardo.lara@example.com",
+      "edad": 31,
+      "ciudad": "Panamá"
+    },
+    {
+      "nombre": "Silvia",
+      "apellido": "Vargas",
+      "correo": "silvia.vargas@example.com",
+      "edad": 27,
+      "ciudad": "San Salvador"
+    },
+    {
+      "nombre": "Eduardo",
+      "apellido": "Molina",
+      "correo": "eduardo.molina@example.com",
+      "edad": 34,
+      "ciudad": "Managua"
+    },
+    {
+      "nombre": "Adriana",
+      "apellido": "Cruz",
+      "correo": "adriana.cruz@example.com",
+      "edad": 25,
+      "ciudad": "Tijuana"
+    }
+  ]
+}
